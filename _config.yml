@@ -1,18 +1,30 @@
-analytics: {}
-color:
-  brandColors:
-    - '#000000'
-    - '#501010'
-    - '#000000'
-    - '#A84038'
-    - '#E8C880'
-  brandStrength: 0.878471
-  lightness: 0.042661
-  rhythmicContrast: 0.928609
-  saturation: 0.625
-cta: {}
 layout_spectrum: 0.984797
 name: liveyourdream
-opengraph: {}
 purpose: {}
+analytics: {}
+opengraph: {}
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta: {}
+color:
+  brandStrength: 0
+  lightness: 0.042661
+  saturation: 0.625
+  rhythmicContrast: 0.928609
+  brandColors:
+    - '#A0B8A8'
+    - '#000000'
+    - '#789090'
+    - '#000000'
+    - '#000000'
 typography_spectrum: 0.138513
