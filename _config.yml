@@ -6,10 +6,10 @@ color:
     - '#789090'
     - '#000000'
     - '#000000'
-  brandStrength: 0
-  lightness: 0.042661
-  rhythmicContrast: 0.928609
-  saturation: 0.625
+  brandStrength: 0.337837
+  lightness: 0.79054
+  rhythmicContrast: 0.83277
+  saturation: 0.77027
 cta: {}
 layout_spectrum: 0.390202
 name: liveyourdream
