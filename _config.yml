@@ -1,18 +1,30 @@
+layout_spectrum: 0.93086
+name: liveyourdream
+purpose: {}
 analytics: {}
+opengraph: {}
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta: {}
 color:
+  brandStrength: 0.337837
+  saturation: 0.77027
   brandColors:
     - '#A0B8A8'
     - '#000000'
     - '#789090'
     - '#000000'
     - '#000000'
-  brandStrength: 0.337837
   lightness: 0.79054
   rhythmicContrast: 0.83277
-  saturation: 0.77027
-cta: {}
-layout_spectrum: 0.190878
-name: liveyourdream
-opengraph: {}
-purpose: {}
 typography_spectrum: 0.138513
