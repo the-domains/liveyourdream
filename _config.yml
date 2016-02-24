@@ -1,8 +1,7 @@
-layout_spectrum: 0.93086
 name: liveyourdream
-purpose: {}
-analytics: {}
-opengraph: {}
+favicon: null
+layout_spectrum: 0.93086
+typography_spectrum: 0.138513
 collections:
   - index:
       navigable: true
@@ -15,16 +14,30 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta: {}
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.337837
-  saturation: 0.77027
   brandColors:
     - '#A0B8A8'
     - '#000000'
     - '#789090'
     - '#000000'
     - '#000000'
+  brandStrength: 0.5
   lightness: 0.79054
+  saturation: 0.77027
   rhythmicContrast: 0.83277
-typography_spectrum: 0.138513
+purpose:
+  - name: null
+    item: null
+    url: null
