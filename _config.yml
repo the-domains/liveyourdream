@@ -1,7 +1,7 @@
 name: liveyourdream
 favicon: null
-layout_spectrum: 0.6927
-typography_spectrum: 0.50609
+layout_spectrum: 0.65219
+typography_spectrum: 0.138513
 collections:
   - index:
       navigable: true
@@ -33,9 +33,9 @@ color:
     - '#789090'
     - '#000000'
     - '#000000'
-  brandStrength: 0.25
+  brandStrength: 0.5
   lightness: 0.5
-  saturation: 0.77027
+  saturation: 0.875
   rhythmicContrast: 0.75
 purpose:
   - name: null
