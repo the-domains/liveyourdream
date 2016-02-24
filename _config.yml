@@ -1,7 +1,7 @@
 name: liveyourdream
 favicon: null
-layout_spectrum: 0.65219
-typography_spectrum: 0.138513
+layout_spectrum: 0.6927
+typography_spectrum: 0.25254
 collections:
   - index:
       navigable: true
