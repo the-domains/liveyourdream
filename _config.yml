@@ -35,8 +35,8 @@ color:
     - '#871644'
   brandStrength: 0
   lightness: 0
-  saturation: 0.0625
-  rhythmicContrast: 0.25
+  saturation: 1
+  rhythmicContrast: 0
 purpose:
   - name: null
     item: null
