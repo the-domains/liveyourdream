@@ -1,7 +1,7 @@
 name: liveyourdream
 favicon: null
-layout_spectrum: 0.51198
-typography_spectrum: 0.18108
+layout_spectrum: 0.35523289325647056
+typography_spectrum: 0.7851941927801818
 collections:
   - index:
       navigable: true
@@ -28,15 +28,15 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#edc9a5'
-    - '#7c6150'
-    - '#000000'
-    - '#fd2955'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 1
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.015138071263208985
+  lightness: 0.13105993694625795
+  saturation: 0.9752137819305062
+  rhythmicContrast: 0.972601693123579
 purpose:
   - name: null
     item: null
