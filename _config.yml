@@ -38,6 +38,7 @@ collections:
     permalink:
       path: '/:title/'
 title: Live your dream
+description: Time to start living abundantly
 purpose:
   - name: null
     item: null
