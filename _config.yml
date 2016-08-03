@@ -37,7 +37,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Live Your dream
+title: Live your dream
 purpose:
   - name: null
     item: null
