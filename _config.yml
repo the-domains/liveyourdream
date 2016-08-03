@@ -1,7 +1,30 @@
-name: liveyourdream
-favicon: null
-layout_spectrum: 0.35523289325647056
 typography_spectrum: 0.7851941927801818
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.015138071263208985
+  lightness: 0.13105993694625795
+  saturation: 0.9752137819305062
+  rhythmicContrast: 0.972601693123579
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.35523289325647056
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: liveyourdream
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       navigable: true
@@ -14,29 +37,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  brandStrength: 0.015138071263208985
-  lightness: 0.13105993694625795
-  saturation: 0.9752137819305062
-  rhythmicContrast: 0.972601693123579
+title: Live Your dream
 purpose:
   - name: null
     item: null
